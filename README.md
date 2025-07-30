@@ -51,6 +51,7 @@ npm install
 npx expo start
 
 ---
+
 ```
 ## 🔑 Environment Variables
 ```bash
@@ -66,6 +67,7 @@ REDIS_URL=<your_redis_connection_url>
 EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=<your_clerk_key>
 
 ---
+
 ```
 ## 🚀 Usage
 ```
