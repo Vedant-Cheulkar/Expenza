@@ -36,14 +36,6 @@
 
 ---
 
-## 📂 Project Structure
-
-Expenza/
-├── mobile/ # Frontend (React Native + Expo)
-└── backend/ # Backend (Express API)
-
----
-
 ## ⚡ Installation Instructions
 
 ### 1️⃣ Backend Setup
@@ -51,11 +43,24 @@ Expenza/
 cd backend
 npm install
 npm run dev
-
-### 1️⃣ Frontend Setup
+```
+### 2️⃣ Frontend Setup
 ```bash
 cd Frontend
 npm install
 npx expo start
 
+---
+```
+## 🔑 Environment Variables
+```bash
+PORT=5001
+NODE_ENV=development
 
+CLERK_PUBLISHABLE_KEY=<your_clerk_publishable_key>
+CLERK_SECRET_KEY=<your_clerk_secret_key>
+
+DATABASE_URL=<your_neon_postgres_connection_url>
+
+REDIS_URL=<your_redis_connection_url>
+EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=<your_clerk_key>
