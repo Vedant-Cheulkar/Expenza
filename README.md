@@ -65,13 +65,3 @@ DATABASE_URL=<your_neon_postgres_connection_url>
 
 REDIS_URL=<your_redis_connection_url>
 EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=<your_clerk_key>
-
----
-```
-## 📸 Screenshots
-
-### Login & Signup
-<img src="./assets/screens/login.png" width="200" /> <img src="./assets/screens/signup.png" width="200" />
-
-### Home & Add Transactions
-<img src="./assets/screens/home.png" width="200" /> <img src="./assets/screens/add-transaction.png" width="200" />
