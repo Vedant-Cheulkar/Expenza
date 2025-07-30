@@ -1,6 +1,6 @@
 # 📱 Expenza
 
-![Expenza Banner](/frontend/assets/images/banner.png)
+![Expenza Banner](/Frontend//assets/images/banner.png)
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.74-blue?style=for-the-badge&logo=react)](https://reactnative.dev/)  
 [![Expo](https://img.shields.io/badge/Expo-51.0-black?style=for-the-badge&logo=expo)](https://expo.dev/)  
