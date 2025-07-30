@@ -41,3 +41,21 @@
 Expenza/
 ├── mobile/ # Frontend (React Native + Expo)
 └── backend/ # Backend (Express API)
+
+---
+
+## ⚡ Installation Instructions
+
+### 1️⃣ Backend Setup
+```bash
+cd backend
+npm install
+npm run dev
+
+### 1️⃣ Frontend Setup
+```bash
+cd Frontend
+npm install
+npx expo start
+
+
